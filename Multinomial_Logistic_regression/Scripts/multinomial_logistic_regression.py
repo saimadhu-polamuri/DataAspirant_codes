@@ -2,7 +2,7 @@
 # multinomial_logistic_regression.py
 # Author : Saimadhu Polamuri
 # Date: 05-May-2017
-# About: Visualization of trained decision trees classifiers
+# About: Multinomial logistic regression model implementation
 
 import pandas as pd
 import numpy as np
