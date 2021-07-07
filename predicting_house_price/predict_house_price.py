@@ -52,5 +52,5 @@ predictvalue = 700
 result = linear_model_main(X,Y,predictvalue)
 print "Intercept value " , result['intercept']
 print "coefficient " , result['coefficient']
-show_linear_line(X,Y)
+show_linear_line(x,y)
 print "Predicted value: ",result['predicted_value']
